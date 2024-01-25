@@ -1,0 +1,16 @@
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\bin\Debug\netstandard2.0\MiniProyecto4_RLG.deps.json
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\bin\Debug\netstandard2.0\MiniProyecto4_RLG.dll
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\bin\Debug\netstandard2.0\MiniProyecto4_RLG.pdb
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.csproj.AssemblyReference.cache
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\Vistas\RegistroGastos.xaml.g.cs
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.AssemblyInfoInputs.cache
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.AssemblyInfo.cs
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.csproj.CoreCompileInputs.cache
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.dll
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\refint\MiniProyecto4_RLG.dll
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\MiniProyecto4_RLG.pdb
+C:\Users\CD16\Desktop\MiniProyecto4_RLG\MiniProyecto4_RLG\MiniProyecto4_RLG\obj\Debug\netstandard2.0\ref\MiniProyecto4_RLG.dll
